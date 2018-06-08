@@ -1,9 +1,17 @@
+-- This file was automatically generated for the LuaDist project.
+
 package = "otom"
-version = "1.0-1"
+version = "1.1-1"
+-- LuaDist source
 source = {
-   url = "git+https://github.com/ratanvarghese/otom.git",
-   tag = "v1.0"
+  tag = "1.1-1",
+  url = "git://github.com/LuaDist-testing/otom.git"
 }
+-- Original source
+-- source = {
+--    url = "git+https://github.com/ratanvarghese/otom.git",
+--    tag = "v1.1"
+-- }
 description = {
    summary = "Data structure with one-to-one mapping",
    detailed = [[
